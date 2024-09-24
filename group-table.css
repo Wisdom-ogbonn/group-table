@@ -1,0 +1,18 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tbody > tr > td{
+    border: 1px solid #1E1F22;
+}
+
+
+.university{
+    background-color: #B0E1E6;
+}
+
+.school{
+    background-color: #9ACD32;
+}
+
